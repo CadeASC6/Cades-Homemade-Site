@@ -88,10 +88,31 @@ padding-bottom: -20px;
 .contactInfo {
  font-size: 100%;
  font-family: "Josefin Sans";
- display: flex;
- justify-content: space-around;
+ 
+}
+#contacthDiv {
+    display: flex;
+ justify-content: space-evenly;
+}
+#contacthDiv h2{
+    width: 180px;
+    font-size: 24px;
 }
 
+#contactaDiv {
+    display: flex;
+ justify-content: space-evenly;
+}
+#contactaDiv a {
+    width: 265px;
+}
+#contactpDiv {
+    display: flex;
+ justify-content: space-evenly;
+}
+#contactpDiv p {
+    width: 265px;
+}
 /* ExTRACURRICAL DIV */
 .ImgDiv img {
     width: 300px;
