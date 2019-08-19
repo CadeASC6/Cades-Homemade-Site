@@ -94,16 +94,15 @@ padding-bottom: -20px;
 
 /* ExTRACURRICAL DIV */
 .ImgDiv img {
-    width: 600px;
+    width: 300px;
 }
 .Info {
-    display: flex;
-    justify-content:space-evenly;
+    display: block;
+    /* justify-content:space-evenly; */
     font-family: "Josefin Sans";
 }
 .Info p {
     width: 500px;
-    height: 150px;
 }
 .subHeader {
     font-family: "Josefin Sans";
@@ -124,16 +123,90 @@ padding-bottom: -20px;
     padding-top: 20px;
     display: flex;
 }
-#sgadiv {
-height: ;
-}
-#ascdiv
+/* #sgadiv {
+height: ; */
+
+#ascpDiv 
 {
+    display: flex;
+    justify-content:space-evenly;;
+}
+#ascpDiv p {
+    width: 600px;
+}
+#ascUlDiv{
+    display: flex;
+    justify-content:space-evenly;
+    
+}
+#ascUlDiv ul{
+    width: 500px;
+}
+#sgapDiv{
+    display: flex;
+    justify-content:space-evenly;
+}
+#sgapDiv p{
+    width: 500px;
+}
+#sgaulDiv {
+    display: flex;
+    justify-content:space-evenly;
+}
+#sgaulDiv ul {
+    width: 500px;
 
 }
-#spordiv {
+
+#volunteerulDiv ul{
+    width: 500px;
 
 }
-#voldiv {
+#volunteerDivH {
+    display: flex;
+    justify-content:space-evenly;
+}
+#volunteerDivH ul{
+    width: 500px;
+
+}
+#volunteerDivR{
+    display: flex;
+    justify-content:space-evenly;
+}
+#volunteerDivR ul{
+    width: 500px;
+
+}
+#volunteerDivE{
+    display: flex;
+    justify-content:space-evenly;
+}
+#volunteerDivE ul{
+    width: 500px;
+
+}
+#sportsulDivTW {
+    display: flex;
+    justify-content:space-evenly;
+}
+#sportsulDivTW ul{
+    width: 500px;
+
+}
+#sportsulDivTS {
+    display: flex;
+    justify-content:space-evenly;
+}
+#sportsulDivTS ul{
+    width: 500px;
+
+}
+#sportsulDivS {
+    display: flex;
+    justify-content:space-evenly;
+}
+#sportsulDivS ul{
+    width: 500px;
 
 }
