@@ -71,6 +71,7 @@ padding-bottom: -20px;
 /* ABOUT DIV */
 #aboutInfo {
     display: flex;
+    font-size: 120%;
     justify-content:space-evenly;
  
 }
@@ -111,6 +112,13 @@ padding-bottom: -20px;
  justify-content: space-evenly;
 }
 #contactpDiv p {
+    width: 265px;
+}
+#contactgitDiv {
+    display: flex;
+ justify-content: space-evenly;
+}
+#contactgitDiv a {
     width: 265px;
 }
 /* ExTRACURRICAL DIV */
@@ -163,6 +171,10 @@ height: ; */
 #ascUlDiv ul{
     width: 500px;
 }
+#mpcLink {
+    font-size: 115%;
+    font-weight: bold;
+}
 #sgapDiv{
     display: flex;
     justify-content:space-evenly;
@@ -202,6 +214,7 @@ height: ; */
 #volunteerDivE{
     display: flex;
     justify-content:space-evenly;
+    font-family: "Josefin Sans";
 }
 #volunteerDivE ul{
     width: 500px;
