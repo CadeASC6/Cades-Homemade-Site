@@ -9,10 +9,10 @@ a:active {color:black;  /* Selected link   */
     display: flex;
     justify-content: space-evenly;
     padding-top: 50px;
-    height: 310px;
+    height: 405px;
 }
 #topImg {
-    height: 300px;
+    height: 400px;
     width: 800px;
 
 }
@@ -154,7 +154,10 @@ padding-bottom: -20px;
 }
 /* #sgadiv {
 height: ; */
-
+#ascImg {
+    height: 400px;
+    width: 700px;
+} 
 #ascpDiv 
 {
     display: flex;
@@ -191,6 +194,11 @@ height: ; */
 
 }
 
+#volunteerImg {
+    height: 250px;
+    width: 700px;
+
+}
 #volunteerulDiv ul{
     width: 500px;
 
@@ -219,6 +227,18 @@ height: ; */
 #volunteerDivE ul{
     width: 500px;
 
+}
+#workImg {
+    height: 400px;
+    width: 700px;
+    
+}
+#workingDivM {
+    display: flex;
+    justify-content: space-evenly;
+}
+#workingDivM ul{
+    width: 500px;
 }
 #sportsulDivTW {
     display: flex;
