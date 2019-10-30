@@ -264,3 +264,43 @@ height: ; */
     width: 500px;
 
 }
+#shspDiv {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: "Josefin Sans";
+}
+#shspDiv p {
+    width:500px;
+}
+#shsulDiv {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: "Josefin Sans";
+}
+#shsulDiv ul {
+    width: 500px;
+}
+#jsapDiv {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: "Josefin Sans";
+}
+#jsapDiv p {
+    width: 500px;
+}
+#jsaulDiv {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: "Josefin Sans";
+}
+#jsaulDiv ul {
+    width: 500px;
+}
+#asculDiv2 {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: "Josefin Sans";
+}
+#asculDiv2 ul {
+    width: 500px;
+}
